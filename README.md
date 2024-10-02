@@ -1,6 +1,6 @@
 Yahtzee
-Create a dice game that awards the user points for a pair, three-of-a-kind, or a series. Use the
-following class diagram for your program.
+
+A dice game that awards the user points for a pair, three-of-a-kind, or a series.
 ***
 Die class (die.py) – has two attributes: the number of sides of the die and the value of the rolled
 die.
