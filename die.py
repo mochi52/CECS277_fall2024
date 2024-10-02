@@ -1,4 +1,4 @@
-#Author: Phuong Tran, Leslie Lopez Arjon, Robert Oceguera
+#Author: Phuong Tran
 #Date: 09/30/2024
 #Description:
 
