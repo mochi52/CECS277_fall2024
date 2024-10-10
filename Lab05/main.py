@@ -1,4 +1,4 @@
-#Author: Phuong Tran, Leslie Lopez Arjon, Robert Oceguera
+#Author: Phuong Tran
 #Date: 09/23/24
 #Description: This program reads a file and creates a tasklist. The user can add, mark, remove, and save tasks. 
 from task import Task
